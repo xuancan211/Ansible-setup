@@ -1,0 +1,9 @@
+[remote] 
+
+name=RHEL Apache
+
+baseurl=http://
+
+enabled=1
+
+gpgcheck=0
